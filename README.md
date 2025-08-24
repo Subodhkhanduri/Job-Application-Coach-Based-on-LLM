@@ -1,5 +1,4 @@
 # Job-Application-Coach-Based-on-LLM
-This repository contains projects and code examples developed using IBM's Cloud IDE Kubernetes environment as part of the **Building Generative AI-Powered Applications with Python** course.
 
 ## Overview
 
